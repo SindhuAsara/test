@@ -10,5 +10,5 @@
 - git commit -m "commit message" --> Record changes to the                                    repository
 - git merge master
 - git pull upstream branch-name
-- git push origin
-
+- git push origin development
+- git push origin master
